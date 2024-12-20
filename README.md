@@ -5,12 +5,12 @@ di Federico Dutto - studente di Ingegneria Informatica presso il Politecnico di 
 
 ### Capitoli
 
-1. [Introduzione](#1.-introduzione)
-2. [Basi di teoria dei grafi](#2.basi-di-teoria-dei-grafi)
-3. [Implementazione lista semplice](#3.-implementazione-lista-semplice)
-4. [Teoria degli alberi binari](#4.-teoria-degli-alberi-binari)
-5. [Implementazione alberi binari](#5.-implementazione-alberi-binari)
-6. [Alberi binari come alberi decisionali](#6.-alberi-binari-come-alberi-decisionali)
+1. [Introduzione](#1-introduzione)
+2. [Basi di teoria dei grafi](#2-basi-di-teoria-dei-grafi)
+3. [Implementazione lista semplice](#3-implementazione-lista-semplice)
+4. [Teoria degli alberi binari](#4-teoria-degli-alberi-binari)
+5. [Implementazione alberi binari](#5-implementazione-alberi-binari)
+6. [Alberi binari come alberi decisionali](#6-alberi-binari-come-alberi-decisionali)
 
 ***
 
